@@ -28,6 +28,6 @@ While this is a personal project, I'm open to suggestions and contributions. If 
 
 If you have any questions or would like to get in touch with me, please feel free to contact me.
 
-License
+
 
 This project is open source and available under the MIT License.
