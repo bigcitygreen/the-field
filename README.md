@@ -20,11 +20,9 @@ Setup and Installation
 To run this project locally:
 
 Clone the repository to your local machine.
-bash
 Copy code
 git 
 Open the index.html file in a web browser to view the website.
-Contributions
 
 While this is a personal project, I'm open to suggestions and contributions. If you have ideas on how to improve this site or want to report a bug, please feel free to open an issue or submit a pull request.
 
